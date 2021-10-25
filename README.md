@@ -14,7 +14,7 @@ I'm a Full-Stack developer, with knowlege in: <br>
 ![image](https://user-images.githubusercontent.com/86074558/138721096-c7d99108-dd83-45dd-ab27-6bcf1611bd98.png)
 ![image](https://user-images.githubusercontent.com/86074558/138721131-58933a83-4df7-4824-abea-cb5d60b2b595.png)
 ![image](https://user-images.githubusercontent.com/86074558/138721174-bedff55e-babb-4b4a-94f0-e288c5ae237c.png)
-![image size:10px](https://user-images.githubusercontent.com/86074558/138721246-3046aaa6-f266-42fa-ba9b-801c3ccff812.png)
+![image](https://user-images.githubusercontent.com/86074558/138721246-3046aaa6-f266-42fa-ba9b-801c3ccff812.png) size:10px
 
 
 
